@@ -1,0 +1,63 @@
+
+.cajas{
+    height: 25%;
+    text-align:center; 
+    background-color: aquamarine;
+}
+
+.cajas2{
+    height: 25%;
+    text-align:center;
+    background-color: blueviolet;
+}
+.cajas3{
+    height: 25%;
+    text-align:center;
+    background-color: orange;
+}
+.cajas4{
+    height: 25%;
+    text-align:center;
+    background-color: yellowgreen;
+}
+.interior{
+    padding: 50px;
+
+}
+body{
+    background-color: darkslategray;
+    font-family: sans-serif;
+}
+
+
+.justificar{
+    text-align: justify;
+}
+
+.dividir1{
+    width: 20%;
+    float: left;
+    color: azure;
+    text-decoration: none;
+    
+}
+
+.dividir2{
+   
+    float: left;
+    width: 75%;
+
+}
+
+ul{
+    list-style-type:square;
+}
+
+li:hover{
+    color: beige;
+    
+}
+
+
+
+
